@@ -20,7 +20,7 @@ const ProductsCards = () => {
   };
 
   return (
-    <div className="products-container">
+    <div className="products-container" style={{ marginTop: "50px" }}>
       {products.map((p) => (
         <div className="product-card" key={p.id}>
           <div className="image-section">

@@ -6,7 +6,7 @@ import kids6 from "../assets/products/kids6.jfif";
 import kids7 from "../assets/products/kids7.jfif";
 import kids8 from "../assets/products/kids8.jfif";
 import kids10 from "../assets/products/kids10.jfif";
-import kids11 from "../assets/products/Meninas de flores elegantes Vestido de casamento Festa de princesa vestido casual roupas de renda de mangas compridas vestidos infantis para 3-8t - 424 pink _ 3T.jfif";
+import kids11 from "../assets/products/kids8.jfif";
 import kidsshoes1 from "../assets/products/kidsshoes1.jfif";
 import kidsshoes2 from "../assets/products/kidsshoes2.jfif";
 import kidsshoes3 from "../assets/products/kidsshoes3.jfif";
